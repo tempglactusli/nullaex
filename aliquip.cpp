@@ -1,0 +1,1 @@
+int emptyArray[10];
